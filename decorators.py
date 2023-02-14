@@ -8,3 +8,5 @@ def announce(f):
 @announce
 def hello():
     print("Hello world!")
+
+hello()
